@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stvicker
+- 👋 Hi, I’m @Deez
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Tap Strafing in apex legends
 - 💞️ I’m looking to collaborate on nothing
@@ -7,4 +7,4 @@
 
 Stvicker/Stvicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
