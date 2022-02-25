@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deez
+- 👋 Hi, I’m @Stvicker
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning Tap Strafing in apex legends
 - 💞️ I’m looking to collaborate on nothing
